@@ -49,7 +49,7 @@ def my_background(my_width, my_height):    #Отрисовка фона
     penColor('#E38219')
     brushColor("#E38219")   
     rectangle(95, my_height - 20, 100, my_height-139)
-    #основание верхушки зонтака
+    #основание верхушки зонтика
     penColor('#D84A67')
     brushColor("#F45151")   
     rectangle(95, my_height - 139, 100, my_height-170)
